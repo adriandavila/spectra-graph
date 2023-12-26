@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "spectra-graph"
+version = "0.0.3"
+authors = [
+    { name="Adrian Davila", email="akdavila03@gmail.com" },
+]
+description = "Package to place and route graphs on an infinite plane"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    'Intended Audience :: Developers',
+]
+
+[project.urls]
+homepage = "https://github.com/adriandavila/spectra-graph"
+
+[tool.hatch.build.targets.wheel]
+packages = ["spectra_graph"]
