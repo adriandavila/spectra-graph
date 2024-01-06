@@ -1,4 +1,4 @@
-# <img src='https://github.com/adriandavila/spectra-graph/blob/main/docs/assets/logo/icon.png?raw=true' width='30'> Spectra-Graph Planning
+# <img src='https://github.com/adriandavila/spectra-graph/blob/main/docs/assets/logo/icon.png?raw=true' width='30' alt="Spectra-Graph Logo"> Spectra-Graph Planning
 
 The core functionality of the spectra-graph program will revolve around drawing graphs on an infinite plane.
 
