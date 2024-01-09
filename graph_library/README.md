@@ -4,6 +4,6 @@ A collection of graphs for testing and end-to-end examples.
 
 ## Sources
 
-| Graph | Source |
-| --- | --- |
-| Mobile Patent Suits | [Thomson Reuters](http://blog.thomsonreuters.com/index.php/mobile-patent-suits-graphic-of-the-day/)
+| Graph | Source | # Nodes | # Edges |
+| --- | --- | --- | --- |
+| Mobile Patent Suits | [Thomson Reuters](http://blog.thomsonreuters.com/index.php/mobile-patent-suits-graphic-of-the-day/) | TODO | TODO |
